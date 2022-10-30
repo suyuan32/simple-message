@@ -10,5 +10,6 @@ const (
 	TargetNotFound    string = "target cannot be found"
 	DatabaseError     string = "database error"
 	RedisError        string = "redis error"
-	OperationNotAllow string = "Operation does not allow"
+	OperationNotAllow string = "operation does not allow"
+	InvalidArgument   string = "invalid argument"
 )
